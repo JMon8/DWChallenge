@@ -1,0 +1,3 @@
+pandas==2.2.1
+# SQLAlchemy==2.0.25
+# databricks_connectt==14.3.1
